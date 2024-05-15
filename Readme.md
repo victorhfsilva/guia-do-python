@@ -32,10 +32,12 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 - [Dicionários](./Python/Estruturas%20de%20Dados/Dicionários.md)
 - [Sets](./Python/Estruturas%20de%20Dados/Sets.md)
 - [Pilhas e Filas](./Python/Estruturas%20de%20Dados/Pilhas%20e%20Filas.md)
-
+- [Collections](./Python/Estruturas%20de%20Dados/Collections.md)
 
 #### Orientação a Objetos
 
+- [Classes e Objetos](./Python/Orientação%20a%20Objetos/Classes%20e%20Objetos.md)
+- [Herança](./Python/Orientação%20a%20Objetos/Herança.md)
 
 #### Programação Funcional
 
