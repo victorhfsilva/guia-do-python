@@ -27,6 +27,13 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 
 #### Estruturas de Dados
 
+- [Listas](./Python/Estruturas%20de%20Dados/Listas.md)
+- [Tuplas](./Python/Estruturas%20de%20Dados/Tuplas.md)
+- [Dicionários](./Python/Estruturas%20de%20Dados/Dicionários.md)
+- [Sets](./Python/Estruturas%20de%20Dados/Sets.md)
+- [Pilhas e Filas](./Python/Estruturas%20de%20Dados/Pilhas%20e%20Filas.md)
+
+
 #### Orientação a Objetos
 
 
