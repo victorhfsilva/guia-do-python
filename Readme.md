@@ -43,6 +43,9 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 
 #### Programação Funcional
 
+- [Funções](./Python/Programação%20Funcional/Funções.md)
+- [Closures](./Python/Programação%20Funcional/Closures.md)
+- [List Comprehensions](./Python/Programação%20Funcional/List%20Comprehensions%20vs%20Map%20e%20Filter.md)
 
 #### Testes 
 
