@@ -38,6 +38,8 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 
 - [Classes e Objetos](./Python/Orientação%20a%20Objetos/Classes%20e%20Objetos.md)
 - [Herança](./Python/Orientação%20a%20Objetos/Herança.md)
+- [Encapsulamento](./Python/Orientação%20a%20Objetos/Encapsulamento.md)
+- [Métodos Especiais](./Python/Orientação%20a%20Objetos/Métodos%20Especiais.md)
 
 #### Programação Funcional
 
