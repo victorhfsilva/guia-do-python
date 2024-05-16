@@ -49,6 +49,14 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 
 #### Testes 
 
+- [Testes com Pytest](./Python/Testes/Testes%20com%20Pytest.md)
+
+#### Outros
+
+- [Ambientes Virtuais](./Python/Outros/Ambientes%20Virtuais.md)
+- [Requests](./Python/Outros/Requests.md)
+- [Json](./Python/Outros/Json.md)
+- [Bancos de Dados](./Python/Outros/Bancos%20de%20Dados.md)
 
 
 ## 🤝 Contribua!
