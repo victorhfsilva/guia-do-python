@@ -24,7 +24,7 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 - [Importação de Módulos](./Python/Sintaxe%20Básica/Importando%20Módulos.md)
 - [Tratamento de Erros e Exceções](./Python/Sintaxe%20Básica/Tratamento%20de%20Erros%20e%20Exceções.md)
 - [Strings](./Python/Sintaxe%20Básica/Strings.md)
-- [Regex]()
+- [Regex](./Python/Sintaxe%20Básica/Expressões%20Regulares.md)
 - [Leitura e Escrita de Arquivos](./Python/Sintaxe%20Básica/Leitura%20e%20Escrita%20de%20Arquivos.md)
 
 #### Estruturas de Dados
