@@ -26,6 +26,7 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 - [Strings](./Python/Sintaxe%20Básica/Strings.md)
 - [Regex](./Python/Sintaxe%20Básica/Expressões%20Regulares.md)
 - [Leitura e Escrita de Arquivos](./Python/Sintaxe%20Básica/Leitura%20e%20Escrita%20de%20Arquivos.md)
+- [Datetime](./Python/Sintaxe%20Básica/DateTime.md)
 
 #### Estruturas de Dados
 
@@ -59,11 +60,26 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 - [Requests](./Python/Outros/Requests.md)
 - [Json](./Python/Outros/Json.md)
 - [Bancos de Dados](./Python/Outros/Bancos%20de%20Dados.md)
+- [SqlAlchemy](./Python/Outros/SqlAlchemy.md)
 
-### Numpy
+### Dados
 
-- [Arrays](./Numpy/Arrays.md)
-- [Entrada e Saída](./Numpy/Entrada%20e%20Saída.md)
+#### Numpy
+
+- [Arrays](./Dados/Numpy/Arrays.md)
+- [Entrada e Saída](./Dados/Numpy/Entrada%20e%20Saída.md)
+
+#### Matplotlib
+
+- [Plots](./Dados/Matplotlib/Plots.md)
+
+#### Pandas
+
+- [Carregamento de Dados](./Dados/Pandas/Carregamento%20de%20Dados.md)
+- [Análise de Dados](./Dados/Pandas/Análise%20dos%20Dados.md)
+- [Manipulação de Dados](./Dados/Pandas/Manipulação%20de%20Dados.md)
+- [Agregação dos Dados](./Dados/Pandas/Agrupamentos%20e%20Agragação.md)
+- [Dados Temporais](./Dados/Pandas/Dados%20Temporais.md)
 
 ## 🤝 Contribua!
 
