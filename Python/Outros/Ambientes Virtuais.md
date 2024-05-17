@@ -186,3 +186,24 @@ Para instalar dependências a partir de um arquivo `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 ```
+
+### Atualizando o arquivo requirements.txt
+
+Instale o Pip Upgrader:
+
+```sh
+pip install pip-upgrader
+```
+
+Faça backup do arquivo antigo:
+
+```sh
+cp requirements.txt requirements-backup.txt
+```
+
+Atualize as versões das dependências:
+
+```sh
+pip-upgrade
+```
+
