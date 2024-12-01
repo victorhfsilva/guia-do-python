@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "6b1a6720ac6e8b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4832a6b06781ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e69e8d51325943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dados/Databricks/Trabalhando com CSV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabalhando com CSV"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f92a07c7cf5da9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0057284965087c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036bf5f11967d3b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50a39d83ae3b041e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed1058ed5afdaadd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daaad15290bbeb96",
+    "type": "split",
+    "children": [
+      {
+        "id": "188c46e9381db167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf663790ca32ba5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Orientação a Objetos/Classes e Objetos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Classes e Objetos"
+            }
+          },
+          {
+            "id": "a09a0ff959859146",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Orientação a Objetos/Classes e Objetos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Classes e Objetos"
+            }
+          },
+          {
+            "id": "a62921d52aec16e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a621d0caac618be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Orientação a Objetos/Classes e Objetos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Classes e Objetos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60e69e8d51325943",
+  "lastOpenFiles": [
+    "Dados/Databricks/Trabalhando com Json.md",
+    "Dados/Databricks/Trabalhando com CSV.md",
+    "Dados/Databricks/Manipulando arquivos.md",
+    "Dados/Databricks/Compactando Arquivos.md",
+    "Dados/Databricks/Usando SQL.md",
+    "Dados/Databricks/spark.table.md",
+    "Dados/Spark/Armazenamento.md",
+    "Dados/Databricks",
+    "Dados/Spark/Junções.md",
+    "Dados/Spark/Agrupamento e Sumerização.md",
+    "Dados/Spark/Filter.md",
+    "Dados/Spark/Ordenando Dados.md",
+    "Dados/Spark/Where.md",
+    "Dados/Spark/Functions.md",
+    "Dados/Spark/Select.md",
+    "Dados/Spark/Introdução ao Spark.md",
+    "Dados/SQL/Operadores.md",
+    "Dados/SQL/Múltiplas Consultas.md",
+    "Dados/SQL/Joins.md",
+    "Dados/SQL/Funções de Dados.md",
+    "Dados/SQL/Funções de Agregação.md",
+    "Dados/SQL/DDL.md",
+    "Dados/SQL/DML.md",
+    "Dados/SQL",
+    "Dados/Spark/Conversão e Manipulação de Dados.md",
+    "Dados/Spark/Dataframes.md",
+    "Dados/Spark/Configurando o Apache Spark.md",
+    "Dados/Pandas/Manipulação de Dados.md",
+    "Dados/Spark"
+  ]
+}
