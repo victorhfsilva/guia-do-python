@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dados/Databricks/Arquivos/Trabalhando com ORC.md",
+                "file": "Dados/Pandas/Estilização.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trabalhando com ORC"
+              "title": "Estilização"
             }
           }
         ]
@@ -164,11 +164,22 @@
   },
   "active": "60e69e8d51325943",
   "lastOpenFiles": [
-    "Dados/Databricks/Arquivos/Trabalhando com AVRO.md",
+    "Dados/Pandas/Gráficos.md",
+    "Dados/Pandas/Estilização.md",
+    "Dados/Pandas/Ordenação.md",
+    "Dados/Pandas/Query.md",
+    "Dados/Pandas/Manipulação de Dados.md",
+    "Dados/Pandas/Dados Temporais.md",
+    "Dados/Pandas/Carregamento de Dados.md",
+    "Dados/Pandas/Análise dos Dados.md",
+    "Dados/Pandas/Agrupamentos e Agragação.md",
+    "Dados/Spark/Pandas.md",
+    "Dados/Spark/Agrupamento e Sumerização.md",
+    "Dados/Spark/Ordenando Dados.md",
     "Dados/Databricks/Arquivos/Trabalhando com ORC.md",
+    "Dados/Databricks/Arquivos/Trabalhando com AVRO.md",
     "Dados/Databricks/Arquivos/Trabalhando com Parquet.md",
     "Dados/Databricks/Bancos de Dados/Usando SQL.md",
-    "Dados/Spark/Untitled.md",
     "Dados/Databricks/Bancos de Dados",
     "Dados/Databricks/Untitled.md",
     "Dados/Databricks/Arquivos",
@@ -182,17 +193,6 @@
     "Dados/Spark/Armazenamento.md",
     "Dados/Databricks",
     "Dados/Spark/Junções.md",
-    "Dados/Spark/Agrupamento e Sumerização.md",
-    "Dados/Spark/Filter.md",
-    "Dados/Spark/Ordenando Dados.md",
-    "Dados/Spark/Where.md",
-    "Dados/Spark/Functions.md",
-    "Dados/Spark/Select.md",
-    "Dados/Spark/Introdução ao Spark.md",
-    "Dados/SQL/Operadores.md",
-    "Dados/SQL/Múltiplas Consultas.md",
-    "Dados/SQL/Joins.md",
-    "Dados/SQL/Funções de Dados.md",
     "Dados/SQL",
     "Dados/Spark"
   ]
