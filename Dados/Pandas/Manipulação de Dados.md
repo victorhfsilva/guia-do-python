@@ -44,6 +44,8 @@ filtro = df[df['idade'] > 30]
 filtro = df[(df['idade'] > 30) & (df['cidade'] == 'São Paulo')]
 ```
 
+
+
 ## Limpeza de Dados
 
 ### Tratamento de Valores Nulos

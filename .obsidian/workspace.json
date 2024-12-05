@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dados/Pandas/Estilização.md",
+                "file": "Dados/Pandas/Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estilização"
+              "title": "Map"
             }
           }
         ]
@@ -164,11 +164,13 @@
   },
   "active": "60e69e8d51325943",
   "lastOpenFiles": [
-    "Dados/Pandas/Gráficos.md",
+    "Dados/Pandas/Manipulação de Dados.md",
+    "Dados/Pandas/Map.md",
+    "Dados/Spark/Pandas SQL.md",
     "Dados/Pandas/Estilização.md",
+    "Dados/Pandas/Gráficos.md",
     "Dados/Pandas/Ordenação.md",
     "Dados/Pandas/Query.md",
-    "Dados/Pandas/Manipulação de Dados.md",
     "Dados/Pandas/Dados Temporais.md",
     "Dados/Pandas/Carregamento de Dados.md",
     "Dados/Pandas/Análise dos Dados.md",
@@ -190,9 +192,7 @@
     "Dados/Databricks/Arquivos/Trabalhando com TXT.md",
     "Dados/Databricks/Arquivos/Trabalhando com CSV.md",
     "Dados/Databricks/Arquivos/Trabalhando com Json.md",
-    "Dados/Spark/Armazenamento.md",
     "Dados/Databricks",
-    "Dados/Spark/Junções.md",
     "Dados/SQL",
     "Dados/Spark"
   ]
